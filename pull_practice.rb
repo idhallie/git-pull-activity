@@ -22,8 +22,8 @@ end
 # sets of changes together.
 
 # def robot_noise
-#   puts "beep boop"
-# end
+puts "beep boop"
+end
 
 def train_noise
   puts "choo choo"
